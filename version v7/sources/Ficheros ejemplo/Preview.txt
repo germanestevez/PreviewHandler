@@ -1,0 +1,38 @@
+Versión básica con lo mínimo.
+
+MSDN
+-----------------------
+https://learn.microsoft.com/en-us/windows/win32/shell/preview-handlers
+https://learn.microsoft.com/es-es/windows/win32/shell/preview-handlers
+
+
+https://learn.microsoft.com/en-us/archive/msdn-magazine/2007/january/windows-vista-and-office-writing-your-own-preview-handlers
+
+Preview Handlers:
+https://learn.microsoft.com/en-us/previous-versions//bb776867(v=vs.85)?redirectedfrom=MSDN
+
+
+StackOverflow:
+https://stackoverflow.com/questions/23633246/how-to-get-the-ipreviewhandler-for-a-file-extension
+
+
+
+
+
+Preview Handler Host un your app
+--------------------------------------
+https://github.com/RRUZ/blog/tree/master/Winapi/COM/Preview%20Handlers/PreviewHandler%20Host
+
+
+Rodrigo Ruz
+-------------------
+https://theroadtodelphi.com/2011/06/02/introducing-the-delphi-preview-handler/
+https://theroadtodelphi.com/2011/06/26/delphi-preview-handler-source-code-published-in-google-code/
+
+
+http://www.uweraabe.de/Blog/2011/06/01/windows-7-previews-the-delphi-way/
+
+
+Hosting Preview Handlers in Windows Forms Applications
+--------------------------------------------------------
+https://www.brad-smith.info/blog/archives/79

@@ -1,0 +1,102 @@
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º                                                                             º°
+º                            Û   Û  ÛÛ  Û Û Û Û                             º°
+º                            ÛÛ ÛÛ Û  Û  Û   Û                              º°
+º                            Û Û Û ÛÛÛÛ  Û   Û                              º°
+º                            Û   Û Û  Û Û Û Û Û                             º°
+º                                                                             º°
+º                              proudly presents                               º°
+º  ²²°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°²²  º°
+º  ²°°ÛÛÛÛ²°°ÛÛÛÛ°°°°°ÛÛÛÛ°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°²  º°
+º  ²°°ÛÛ²°Û²°ÛÛ°°°°°°°ÛÛ²°Û°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°²  º°
+º  ²°°ÛÛ²°Û²°ÛÛ°°°°ÛÛ°ÛÛ²°²°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°²  º°
+º  ²°°Û²ÛÛ²°°ÛÛ²²°°°°°ÛÛ²°²°°°²²²°°²°°°²°°²°°²²°°²°²°°²°°²²²°°°°²°°°°²°°°°°²  º°
+º  ²°°Û²°°°°°Û²²°°°ÛÛ°Û²°°²°°°²°°²°²°°°²°°²°²°°°°²°²²°²°²°°°°°°²²°°°°²°²°°°²  º°
+º  ²°°Û²°°°°°²²°°°°ÛÛ°Û²°°Û°°°²²²°°²°°°²°°²°²°²²°²°²°²²°°²²°°°°°²°°°°²²²²°°²  º°
+º  ²°°²²°°°°°²²°°°°Û²°²²°°Û°°°²°°°°²°°°²°°²°²°°²°²°²°°²°°°°²°°°°²°°°°°°²°°°²  º°
+º  ²°°²°°°°°°²ÛÛÛ°°²²°²²ÛÛ°°°°²°°°°²²²°°²²°°°²²°°²°²°°²°²²²°°°°²²²°²°°°²°°°²  º°
+º  ²²°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°²²  º°
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼°
+ °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍ[rls info]ÍÍÍÍÍÍÍÍÍÍÍÍÍÍËÍÍÍÍÍÍÍÍÍÍÍÍÍÍ[about dll]ÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º                                     º                                       º°
+º name: [pluziny14.zip]               º coded in: [MSVC++ 6, no MFC fuck-up]  º°
+º size: [67 kB]                       º                                       º°
+º type: [util]                        º name: [pluzina1.dll]                  º°
+º language: [eng]                     º checksum: [736E569E]                  º°
+º OS: [W2k/XP/2k3]                    º                                       º°
+º date: [19-02-2005]                  º name: [pluzina2.dll]                  º°
+º                                     º checksum: [AF4FDDD9]                  º°
+º note: some plugins using special    º                                       º°
+º       features or techs (PE image   º name: [pluzina3.dll]                  º°
+º       handling and debug), which    º checksum: [EE55FA7F]                  º°
+º       could forbid functionality    º                                       º°
+º       on W98-based systems... it    º name: [pluzina4.dll]                  º°
+º       won't work on W95 of course,  º checksum: [A9F85748]                  º°
+º       but i don't care ;)...        º                                       º°
+º                                     º                                       º°
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÊÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼°
+ °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ[comments]ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º                                                                             º°
+º pluzina1.dll - this is the Units browser plugin, which's able to show which º°
+º                units are used in delphi modules... it could be useful to    º°
+º                recognise exact crypto implementations (DEC, DCPcrypt etc.)  º°
+º                and other specific units...                                  º°
+º                                                                             º°
+º pluzina2.dll - this is the eCrap oep verify plugin... i found out that      º°
+º                genoep.dll returns often (maybe every time) invalid oep      º°
+º                values for executables protected with eAladdin sw crap...    º°
+º                it means VBox 4.3 - 4.6 and ePrivilege (something like       º°
+º                VBox lite) not the hw wildnesses (HASP, smart cards etc.)... º°
+º                pluzina2 uses a few of trixxies to reach the correct oep...  º°
+º                the only condition of success is, that the prog must be a    º°
+º                standard linked app with MSVC 5 - 7 (may be with some MFC)   º°
+º                originally... the support of delphi proggies would need      º°
+º                some backtrace routine, but the work gives no sense, cause   º°
+º                the most apps protected with eCrap are coded in MSVC... the  º°
+º                usage is as simple as possible - just click it and when you  º°
+º                get an idle VBox window, push ok on ready question... you    º°
+º                must cca in next 15 seconds click the Try button... pluzina2 º°
+º                have a timelimit for WaitForDebugEvent, which enables an     º°
+º                simple mechanism for control if the oep was reached (in some º°
+º                real time)... i've tested it also with some ActiveMARK and   º°
+º                Armadillo targets and it worked fine in these cases... but   º°
+º                that's not a guideline, pluzina2 was dedicated to verify     º°
+º                only VBoxed appz oep originally... let every time pluzina2   º°
+º                finish its work, even if it doesn't get success it will      º°
+º                terminate oneself in 15 seconds...                           º°
+º                                                                             º°
+º pluzina3.dll - plugin for quick calculation of common used checksums (when  º°
+º                you want to check module's integrity)...                     º°
+º                                                                             º°
+º pluzina4.dll - this plugin is a disciple of Net.Conn.Locator... i found out º°
+º                that my original tool has some limitations, so i've recoded  º°
+º                the whole debug loop... the name "send spy" says it all -    º°
+º                this plugin watches send and sendto functions and allows you º°
+º                to choose whether to enable or disable it... it may fail     º°
+º                with some dirty targets, but for a first look at an target   º°
+º                it's ok (and useful, i think)...                             º°
+º                                                                             º°
+º news in 1.4:                                                                º°
+º                                                                             º°
+º    ş recoded main debug loop in pluzina2.dll                                º°
+º                                                                             º°
+º    ş new pluzina4.dll: Send spy instead of RSAfind                          º°
+º                                                                             º°
+º note: on win xp with service pack 2 doesn't work the standard memory patch  º°
+º       for IsDebuggerPresent function :-(... i found one effective solution  º°
+º       of this problem, but it needs a entrypoint section to be writable...  º°
+º       with sp2 is the part of memory, where the debugger-significant byte   º°
+º       is located, read only for oher processes... so the mem patch must     º°
+º       be executed in context of debugged app... this is the reason, why you º°
+º       must set 80XXXXXX flag to ep section when you want to use pluzina4... º°
+º                                                                             º°
+º                                                                     Maxx    º°
+º                                                                             º°
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼°
+ °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
