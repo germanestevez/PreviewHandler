@@ -1,0 +1,4 @@
+Ficheros binarios (ya compilados) y código fuente correspondientes a esta entrada del blog:
+
+IV – Instalador para PreviewHandler de imágenes/texto (Inno Setup)
+https://neftali.clubdelphi.com/iv-instalador-para-previewhandler-de-imagenes-texto-inno-setup/

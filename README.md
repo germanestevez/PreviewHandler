@@ -9,4 +9,4 @@ Lo que hay hasta ahora es esto:
 - [Crear una Previsualización de ficheros en Windows](https://neftali.clubdelphi.com/i-creando-una-dll-de-previsualizacion-de-ficheros-preview-handler/)
 - ["Registros" de una DLL de previsualización](https://neftali.clubdelphi.com/ii-registros-de-una-dll-de-previsualizacion-previewhandler/)
 - [Generando previsualización funcional](https://neftali.clubdelphi.com/generando-una-previsualizacion-funcional/)
-- Preview Handler para imágenes incluyendo instalador
+- [Preview Handler para imágenes incluyendo instalador](https://neftali.clubdelphi.com/iv-instalador-para-previewhandler-de-imagenes-texto-inno-setup/)

@@ -1,0 +1,4 @@
+Ficheros binarios (ya compilados) y código fuente correspondientes a esta entrada del blog:
+
+III-Generando una previsualización funcional (PreviewHandler)
+https://neftali.clubdelphi.com/generando-una-previsualizacion-funcional/

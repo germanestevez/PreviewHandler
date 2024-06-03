@@ -1,0 +1,4 @@
+Ficheros binarios (ya compilados) y código fuente correspondientes a esta entrada del blog:
+
+II – «Registros» de una DLL de previsualización (PreviewHandler)
+https://neftali.clubdelphi.com/ii-registros-de-una-dll-de-previsualizacion-previewhandler/
